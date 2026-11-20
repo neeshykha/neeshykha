@@ -29,4 +29,4 @@ Most of what's here shares one theme: deploy AI, then measure whether it actuall
 - **[peptide-evidence](https://github.com/neeshykha/peptide-evidence)**: evidence grading for research peptides. Each compound gets a standalone record under a fixed three-axis rubric, with every claim traced to a primary source. The axes are never averaged into one score, because a single number would hide the finding. [Read the records](https://neeshykha.github.io/peptide-evidence/).
 - **[Stride-App](https://github.com/neeshykha/Stride-App)**: a native macOS habit and project tracker in SwiftUI, built around every-90-days maintenance that a weekday scheduler can't represent.
 
-Elsewhere: Salesforce admin with 25+ production automations, 85% AI ticket deflection running in production, Atlanta.
+Day job: Tech Support and AI Ops Lead at iApartments, in Atlanta. The quickest way to reach me is a message on [LinkedIn](https://www.linkedin.com/in/aneesh-khan-1820b6b5/).
